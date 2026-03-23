@@ -15,3 +15,5 @@ __pycache__/
 
 # Jupyter Notebook checkpoints (if you use them)
 .ipynb_checkpoints/
+
+ipl_data/
