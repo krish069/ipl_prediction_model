@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+env/
+.env
+
+# Datasets and saved models
+*.csv
+*.xlsx
+*.pkl
+*.model
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints (if you use them)
+.ipynb_checkpoints/
